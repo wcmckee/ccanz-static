@@ -1,0 +1,75 @@
+<html><body><div>
+
+<h3>Who are you looking for?</h3>
+
+Creative Commons Aotearoa New Zealand (CCANZ) is looking for two paid interns to help out over the summer.
+
+
+
+The first intern will be a talented designer or visual artist, keen to produce a range of CCANZ resources for print and the web.
+
+
+
+The second intern will be a confident and engaging writer from either law, the humanities or related disciplines, willing to write blog posts, conduct interviews for Creative Commons case studies and help plan the production of new Creative Commons resources.
+
+
+
+Both interns will be energetic supporters of open licensing and open culture, capable of working both collaboratively and independently. While all students are encouraged to apply, the successful candidates are likely to be in at least their third year of study.
+
+<h3>Where? When? And how much?</h3>
+
+Interns will be paid $15 per hour. We hope to provide a total of at least 60 hours paid work. Interns will never be expected to work for free, though there may be opportunities to volunteer after the duration of the internship.<a href="http://creativecommons.org.nz/wp-content/uploads/2013/03/Remix-Kiwi.jpg"><img class="size-medium wp-image-3530 alignright" alt="Remix Kiwi" src="http://creativecommons.org.nz/wp-content/uploads/2013/03/Remix-Kiwi-300x300.jpg" width="181" height="181"></a>
+
+
+
+Ideally, the successful candidates will work between ten and twenty hours per week, between 8.30am and 5pm, at the Thorndon home of the Royal Society of New Zealand. Both interns will work under the direct supervision of the Public Lead for CCANZ. Ideally, the internship will run sometime between January 15 to February 28, though we are willing to be flexible to accommodate other commitments.
+
+
+
+The successful candidates will be temporary employees of the Royal Society of New Zealand, which hosts the CCANZ project. Regrettably, CCANZ is unable to provide accommodation in Wellington, and candidates should note that their pay is unlikely to cover living costs in the Wellington area.
+
+<h3>What’s Creative Commons?</h3>
+
+CCANZ is the kaitiaki of the Creative Commons licences in Aotearoa New Zealand. We promote openness across culture, education, science and government. Browse our website for more information about what we do.
+
+<h3>What will I be doing?</h3>
+
+On top of some basic administrative tasks, you’ll be working on a number of exciting Creative Commons projects, including:
+
+<ul>
+
+	<li>writing and designing a range of resources for CCANZ;</li>
+
+	<li>writing blog posts on the CCANZ website;</li>
+
+	<li>working with the CCANZ community;</li>
+
+	<li>organising Creative Commons events;</li>
+
+	<li>interviewing and writing case studies; and,</li>
+
+	<li>helping with the preliminary work in producing a Creative Commons book.</li>
+
+</ul>
+
+You’ll also be involved in discussions with the Public Lead on what Creative Commons might do in the future.
+
+<h3>How do I apply?</h3>
+
+To apply, email Matt McGregor at matt.mcgregor@royalsociety.org.nz
+
+
+
+Design or arts applicants should provide a short CV and a portfolio or links to examples of your work. It's really important that we see some examples of your work.
+
+
+
+Law and/or humanities applicants should provide a short CV and cover letter. We'll be favouring applicants who show genuine interest in and understanding of the work Creative Commons.
+
+
+
+Applications close noon Tuesday 10 December.
+
+
+
+</div></body></html>
