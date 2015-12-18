@@ -6,6 +6,38 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/alec-duncan.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/amanda-curnow.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/anton-angelo.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/arts.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/australian-national-copyright-unit.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/bill-anderson.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/billy-meinke.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/cameron-mclean.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://wcmckee.com/ccanz/categories/case-studies.xml</loc>
   <lastmod>2015-12-18T01:22:00Z</lastmod>
  </sitemap>
@@ -14,8 +46,12 @@
   <lastmod>2015-12-18T01:22:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/christina-emery.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://wcmckee.com/ccanz/categories/copyright.xml</loc>
-  <lastmod>2015-12-18T01:22:00Z</lastmod>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://wcmckee.com/ccanz/categories/creative-commons.xml</loc>
@@ -26,28 +62,112 @@
   <lastmod>2015-12-18T01:22:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/daniel-strypey-bruce.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/darusha-wehm.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://wcmckee.com/ccanz/categories/data.xml</loc>
-  <lastmod>2015-12-18T01:22:00Z</lastmod>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/deborah-fitchett.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://wcmckee.com/ccanz/categories/education.xml</loc>
-  <lastmod>2015-12-18T01:22:00Z</lastmod>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/elizabeth-heritage.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/elsbeth-hymes-hancock.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/eric-hellman.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://wcmckee.com/ccanz/categories/events.xml</loc>
   <lastmod>2015-12-18T01:22:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/featured.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://wcmckee.com/ccanz/categories/government.xml</loc>
   <lastmod>2015-12-18T01:22:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/harry-chapman.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/hemma-vara.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/heritage.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/hunter-wilson-burke.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/images.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/irene-gardiner.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/judith-carnaby.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/katarina-gray-sharpe.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/lucy-montgomery.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/marcus-stenfert-kroes.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/matt-mcgregor.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://wcmckee.com/ccanz/categories/media-release.xml</loc>
   <lastmod>2015-12-18T01:22:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/mike-riversdale.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://wcmckee.com/ccanz/categories/mix-and-mash.xml</loc>
   <lastmod>2015-12-18T01:22:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/nathan-parker.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/nicole-nogoy.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://wcmckee.com/ccanz/categories/oa-week-2012.xml</loc>
@@ -58,8 +178,32 @@
   <lastmod>2015-12-18T01:22:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/paul-callister.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/penny-carnaby.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://wcmckee.com/ccanz/categories/research.xml</loc>
-  <lastmod>2015-12-18T01:22:00Z</lastmod>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/richard-white.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/rupert-gatti.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/sarah-davy.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/sarah-powell.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://wcmckee.com/ccanz/categories/science.xml</loc>
@@ -70,8 +214,28 @@
   <lastmod>2015-12-18T01:22:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/stuart-yeates.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/thomas-huthwaite.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/tim-bell.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/tim-mcnamara.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://wcmckee.com/ccanz/categories/tools.xml</loc>
   <lastmod>2015-12-18T01:22:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://wcmckee.com/ccanz/categories/victoria-rea.xml</loc>
+  <lastmod>2015-12-18T06:44:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://wcmckee.com/ccanz/galleries/rss.xml</loc>
@@ -79,10 +243,10 @@
  </sitemap>
  <sitemap>
   <loc>http://wcmckee.com/ccanz/rss.xml</loc>
-  <lastmod>2015-12-18T01:22:00Z</lastmod>
+  <lastmod>2015-12-18T07:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://wcmckee.com/ccanz/sitemap.xml</loc>
-  <lastmod>2015-12-18T01:22:00Z</lastmod>
+  <lastmod>2015-12-18T07:00:00Z</lastmod>
  </sitemap>
 </sitemapindex>
