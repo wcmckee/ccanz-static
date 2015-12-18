@@ -21,11 +21,11 @@ BLOG_AUTHOR = "CCANZ"  # (translatable)
 BLOG_TITLE = "CCANZ"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://ccanz.org.nz"
+SITE_URL = "http://wcmckee.com/ccanz/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://galf1813.wordpress.com/"
-BLOG_EMAIL = "hammersmake@gmail.com"
+BLOG_EMAIL = "matt@creativecommons.org.nz"
 BLOG_DESCRIPTION = "Spreading Creative Commons in New Zealand"  # (translatable)
 
 # Nikola is multilingual!
