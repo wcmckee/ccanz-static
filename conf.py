@@ -21,11 +21,11 @@ BLOG_AUTHOR = "CCANZ"  # (translatable)
 BLOG_TITLE = "CCANZ"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://wcmckee.com/ccanz/"
+SITE_URL = "http://cca.nz/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://galf1813.wordpress.com/"
-BLOG_EMAIL = "matt@creativecommons.org.nz"
+BLOG_EMAIL = "admin@creativecommons.org.nz"
 BLOG_DESCRIPTION = "Spreading Creative Commons in New Zealand"  # (translatable)
 
 # Nikola is multilingual!
@@ -124,17 +124,20 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          ``STRIP_INDEXES``.  If it’s set to ``True``, end your links
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
+INDEX_PATH = "news"
+
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/archive.html", "Archives"),
         ("/categories/index.html", "Tags"),
         ("/rss.xml", "RSS feed"),
+	("/news", "News"),
     ),
 }
 
 # Name of the theme to use.
-THEME = "srcco.de"
+THEME = "ipython"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
@@ -173,10 +176,10 @@ POSTS = (
 )
 
 PAGES = (
-    ("stories/*.rst", "stories", "story.tmpl"),
-    ("stories/*.txt", "stories", "story.tmpl"),
-    ("stories/*.md", "stories", "story.tmpl"),
-    ("stories/*.html", "stories", "story.tmpl"),
+    ("stories/*.rst", "", "story.tmpl"),
+    ("stories/*.txt", "", "story.tmpl"),
+    ("stories/*.md", "", "story.tmpl"),
+    ("stories/*.html", "", "story.tmpl"),
 )
 
 
